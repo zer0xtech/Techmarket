@@ -142,7 +142,6 @@ Valeurs de `annonces.statut` : `en_attente`, `validee`, `refusee`.
 
 ## Limites connues / pistes d'amélioration
 
-- Hasher les mots de passe avec `password_hash()` / `password_verify()`
 - Ajouter des jetons CSRF sur les formulaires POST (suppression, changement de rôle, etc.)
 - Utiliser des identifiants de base de données dédiés plutôt que `root` sans mot de passe
 - Protéger les actions de modération (vérification du rôle côté serveur sur toutes les pages)
