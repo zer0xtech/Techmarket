@@ -2,8 +2,6 @@
 
 **TechMarket** est une plateforme web d'achat et de revente de matériel high-tech d'occasion, développée en **PHP / MySQL**. Les annonces sont modérées (manuellement par l'équipe, avec l'aide d'une **IA locale via Ollama**) avant d'être publiées.
 
-> Projet réalisé dans le cadre de [À COMPLÉTER : formation / école / projet personnel].
-
 ---
 
 ## Fonctionnalités
@@ -97,8 +95,6 @@ Base : `techmarket`
 | `favoris` | `id`, `id_annonce`, `id_user` |
 
 Valeurs de `annonces.statut` : `en_attente`, `validee`, `refusee`.
-
-> [À COMPLÉTER : ajouter le fichier `techmarket.sql` au dépôt et le référencer ici]
 
 ---
 
