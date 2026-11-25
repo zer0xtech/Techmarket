@@ -110,7 +110,7 @@ Valeurs de `annonces.statut` : `en_attente`, `validee`, `refusee`.
 
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/[VOTRE-PSEUDO]/techmarket.git
+   git clone https://github.com/zer0xtech/techmarket.git
    cd techmarket
    ```
 
@@ -140,12 +140,6 @@ Valeurs de `annonces.statut` : `en_attente`, `validee`, `refusee`.
 
 ---
 
-## Captures d'écran
-
-[À COMPLÉTER : ajouter des captures de l'accueil, de la publication, du dashboard admin...]
-
----
-
 ## Limites connues / pistes d'amélioration
 
 - Hasher les mots de passe avec `password_hash()` / `password_verify()`
@@ -155,9 +149,3 @@ Valeurs de `annonces.statut` : `en_attente`, `validee`, `refusee`.
 - Vérifier que l'annonce ajoutée en favori existe et possède bien le statut `validee`
 - Pages de détail d'annonce et de suppression de favoris à finaliser
 
----
-
-## Licence
-
-[À COMPLÉTER : MIT, GPL... ou « Projet pédagogique, tous droits réservés »]
-````
